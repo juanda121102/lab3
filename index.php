@@ -2,7 +2,7 @@
 
 
 require_once ("Autor.php");
-require_once ("ImprimirAutir.php");
+require_once ("ImprimirAutor.php");
 require_once ("Libro.php");
 require_once ("Revista.php");
 
